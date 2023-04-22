@@ -1,3 +1,4 @@
+get_width.c
 #include "main.h"
 
 /**
