@@ -1,3 +1,4 @@
+functions.c
 #include "main.h"
 
 /************************* PRINT CHAR *************************/
